@@ -1,4 +1,6 @@
 # Dreamer
+## Running Experiments
+### Project Structure
 ```
 The description of the files:
 
@@ -19,3 +21,6 @@ The description of the files:
 
 ---Dataset/RF_image                 # Part of the dataset is given
 ```
+
+### The demo script
+```python predict.py``` is the direct method to some sample output.
