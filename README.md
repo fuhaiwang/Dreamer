@@ -24,3 +24,15 @@ The description of the files:
 
 ### The demo script
 ```python predict.py``` is the direct method to some sample output.
+
+## Citation
+If you find this work useful in your research, please cite:
+```txt
+@article{wang2025dreamer,
+  title={Dreamer: Dual-RIS-aided imager in complementary modes},
+  author={Wang, Fuhai and Huang, Yunlong and Feng, Zhanbo and Xiong, Rujing and Li, Zhe and Wang, Chun and Mi, Tiebin and Qiu, Robert Caiming and Ling, Zenan},
+  journal={IEEE Transactions on Antennas and Propagation},
+  year={2025},
+  publisher={IEEE}
+}
+```
