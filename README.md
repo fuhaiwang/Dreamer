@@ -24,7 +24,7 @@ The description of the files:
 ```
 
 ### The demo script
----Please download the pre-trained weights [best_model.pth](https://drive.google.com/file/d/1EM02fjfULrlAi4YPLoEEtArUGzc1bVOn/view?usp=drive_link) and place them in the pretrained directory. As for the dataset, due to its large size, it will be released at a later stage.
+---Please download the pre-trained weights [```best_model.pth```](https://drive.google.com/file/d/1EM02fjfULrlAi4YPLoEEtArUGzc1bVOn/view?usp=drive_link) and place them in the ```pretrained``` directory. As for the dataset, due to its large size, it will be released at a later stage.
 ```python predict.py``` is the direct method to some sample output.
 
 ## Citation
