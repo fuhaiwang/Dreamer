@@ -1,4 +1,7 @@
 # Dreamer
+
+### <p align="center">| [🖨️ArXiv](https://arxiv.org/abs/2407.14820) | [📰Paper](https://ieeexplore.ieee.org/abstract/document/10944307)</p>
+
 ## Running Experiments
 ### Project Structure
 ```
