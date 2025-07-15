@@ -1,4 +1,4 @@
-# Dreamer: Dual-RIS-Aided Imager in Complementary Modes (TAP)
+# Dreamer: Dual-RIS-Aided Imager in Complementary Modes
 
 Dreamer employs two Reconfigurable Intelligent Surfaces (RIS) operating in complementary reflection and transmission modes to vastly enhance field-of-view and perception in RF imaging. We detail how RF signals interact with complex scenes and introduce tailored illumination strategies that balance spatial resolution and coverage. A physical indoor prototype validates our design. On the reconstruction side, we propose a CNN-with-external-attention network that translates RF data into high-resolution human silhouette images. Our approach achieves an SSIM of 0.83, outperforming existing methods. 
 
