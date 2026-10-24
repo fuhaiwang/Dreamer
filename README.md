@@ -37,7 +37,10 @@ Please download the pre-trained weights [```best_model.pth```](https://drive.goo
 
 The **Dreamer RF_image dataset** is now publicly available. You can download the dataset from the link below: 
 
-🔗 [LINK](https://drive.google.com/file/d/1aaDJXYf2Ns6swJSStN2gO77301p4NSEb/view?usp=drive_link)
+🔗 ~~[LINK](https://drive.google.com/file/d/1aaDJXYf2Ns6swJSStN2gO77301p4NSEb/view?usp=drive_link)
+
+We've updated the dataset links. You can find the training dataset here: [Training Dataset]([https://drive.google.com/file/d/1aaDJXYf2Ns6swJSStN2gO77301p4NSEb/view?usp=drive_link](https://mega.nz/file/oUlEWZZL#KQj7RXgnnA11W4612xaImjIkwNGqtna8pqM04abTip4))
+The test dataset is available here: [Test Dataset]()
 
 ## Citation
 If you find this work useful in your research, please cite:
